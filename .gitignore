@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Python test files
+.cache/
+.pytest_cache/
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*.bak~
+
+# Operating system files
+.DS_Store
+Thumbs.db
